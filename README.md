@@ -3,7 +3,7 @@
 This repository documents my journey of learning and practicing Python from scratch.
 
 ## 📚 Learning Source
-I'm currently learning Python through **Programming with Mosh** on YouTube.
+I'm currently learning Python through **Programming with Mosh** and College Wallah on YouTube.
 
 ## 🎯 Goals
 - Learn Python fundamentals.
