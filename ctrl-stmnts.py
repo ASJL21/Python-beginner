@@ -24,3 +24,10 @@ elif temp>50:
 
 
 #driving eligibility 
+
+
+#Ternary Operator 
+
+age= int(input())
+result = "Eligible" if age >=18 else "Not Eligible"
+print(result)
